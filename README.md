@@ -1,6 +1,12 @@
 # Learning Resources
 
-This is a curated list of technology learning resources for cloud, containers, devops, automation and anything else deemed interesting or relevant. If you would like to make additions or updates to this list, please clone, branch and submit a pull request.
+This is a curated list of technology learning resources for cloud, containers, devops, automation and a lot of things in between. If you would like to make additions or updates to this list, please clone, branch and submit a pull request, e.g.
+
+``` 
+git clone <repo>
+git checkout -b mybranch
+git push origin mybranch
+```
 
 * [Linux Academy](https://www.linuxacademy.com) Various courses covering a large range of topics. Subscription required.
 * [Learn Chef](https://learn.chef.io) Really well written and detailed online training for Chef. Over 100 hours of content.
